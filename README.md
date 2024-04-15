@@ -2,7 +2,7 @@
   <main>
     <h1>Hello, welcome to my profile 😁</h1>
     <div>
-      <p>Meu nome é Gabriel, sou full-stack e engenheiro | Desenvolvedor de Software, sou apaixonado pela minha área e sempre faço o         meu melhor pelos clientes.</p>
+      <p>My name is Gabriel, I'm full-stack and an engineer | Software Developer, I am passionate about my field and always do my best for my clients.</p>
     </div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GB-GomesDeveloper&layout=compact&theme=transparent&hide_border=true&title_color=417E87">
   </main>
