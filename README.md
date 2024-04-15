@@ -1,4 +1,12 @@
-### Hi there 👋
+<html>
+  <main>
+    <h1>Hello, welcome to my profile 😁</h1>
+    <div>
+      <p>Meu nome é Gabriel, sou full-stack e engenheiro | Desenvolvedor de Software, sou apaixonado pela minha área e sempre faço o         meu melhor pelos clientes.</p>
+    </div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GB-GomesDeveloper&layout=compact">
+  </main>
+</html>
 
 <!--
 **GB-GomesDeveloper/GB-GomesDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
